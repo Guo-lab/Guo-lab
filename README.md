@@ -36,5 +36,6 @@ Here are some ideas to get you started:
            ]         N H         [
           /          N            \
          /           q,            \
-        
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsq&hide=language1,language2, language3,language4&langs_count=8)
