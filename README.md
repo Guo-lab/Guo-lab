@@ -38,4 +38,4 @@ Here are some ideas to get you started:
          /           q,            \
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsq&hide=language1,language2, language3,language4&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsq&hide=language1,language2,language3,language4&langs_count=8)
