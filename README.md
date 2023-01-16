@@ -34,10 +34,6 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/Guo-lab/Guo-lab/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
 <!--END_SECTION:waka-->
 
 ### Programming Skills  <pr>
