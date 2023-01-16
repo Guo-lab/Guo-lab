@@ -34,9 +34,13 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+<img
+  src="https://github.com/Guo-lab/Guo-lab/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
 <!--END_SECTION:waka-->
 
-### Programming Skills  <br>
+### Programming Skills  <pr>
 
   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
   ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -49,9 +53,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="GO" title="Golang" style="height:20px; border-radius: 0.3125em;"  />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" title="C++" style="height:20px; border-radius: 0.3125em;"  />
   <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  /> 
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  /> 
-
-  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="MD" title="markdown" style="height:20px; border-radius: 0.3125em;"  /> ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
   ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&color=00008B) 
   ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
   ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
@@ -65,17 +67,13 @@ Here are some ideas to get you started:
 
 
 ### Machine Learning
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
 
 <pr><pr>
 
 ### My Operating System by frequency <pr>
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
 
 
@@ -90,24 +88,24 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-       KEEP MOVING ON COMPUTER SCIENCE
-        \         STUDY  PATH       /
-          \                       /
-           ]                     [    ,'|
-           ]                     [   /  |
-           ]___               ___[ ,'   |
-           ]  ]\             /[  [ |:   |
-           ]  ]  ]         [  [  [ |:   |
-           ]  ]  ]__     __[  [  [ |:   |
-           ]  ]  ] ]\ _ /[ [  [  [ |:   |
-           ]  ]  ] ] (#) [ [  [  [ :===='
-           ]  ]  ]_].nHn.[_[  [  [
-           ]  ]  ]  HHHHH. [  [  [
-           ]  ] /   `HH("N  \ [  [
-           ]__]/     HHH  "  \[__[
-           ]         N/"         [
-           ]         N H         [
-          /          N            \
-         /           q,            \
+     KEEP MOVING ON COMPUTER SCIENCE
+     \         STUDY  PATH       /
+     \                       /
+            ]                     [    ,'|
+            ]                     [   /  |
+            ]___               ___[ ,'   |
+            ]  ]\             /[  [ |:   |
+            ]  ]  ]         [  [  [ |:   |
+            ]  ]  ]__     __[  [  [ |:   |
+            ]  ]  ] ]\ _ /[ [  [  [ |:   |
+            ]  ]  ] ] (#) [ [  [  [ :===='
+     ]  ]  ]_].nHn.[_[  [  [
+     ]  ]  ]  HHHHH. [  [  [
+     ]  ] /   `HH("N  \ [  [
+     ]__]/     HHH  "  \[__[
+     ]         N/"         [
+     ]         N H         [
+      /          N            \
+     /           q,            \
 </div>
 <br>
