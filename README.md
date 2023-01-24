@@ -39,16 +39,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 January 2023 - To: 19 January 2023
+From: 16 January 2023 - To: 23 January 2023
 
-Total Time: 2 hrs 44 mins
+Total Time: 1 hr 7 mins
 
-Markdown     2 hrs 10 mins   ████████████████████░░░░░   79.45 %
-JavaScript   9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
-JSON         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
-Bash         7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-YAML         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
+C++    1 hr 1 min      ██████████████████████▓░░   91.15 %
+JSON   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 %
+YAML   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
 ```
 
 <!--END_SECTION:waka-->
