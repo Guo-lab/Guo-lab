@@ -5,7 +5,7 @@ on:
     branches: [master]
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: "0 0 * * 6" # runs at every 12AM UTC Saturday
+    - cron: "0 0 */5 * *" # runs // https://blog.csdn.net/jerry_1126/article/details/52120806
     #- cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
