@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 February 2023 - To: 10 February 2023
+From: 08 February 2023 - To: 15 February 2023
 
-Total Time: 34 hrs 30 mins
+Total Time: 32 hrs 49 mins
 
-C++          19 hrs 50 mins  ██████████████▒░░░░░░░░░░   57.52 %
-Python       10 hrs 21 mins  ███████▓░░░░░░░░░░░░░░░░░   30.04 %
-Markdown     1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
-Dart         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-Bash         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-YAML         34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+Python        23 hrs 55 mins  ██████████████████▒░░░░░░   72.86 %
+Dart          3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+Bash          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
+CocoaPods     1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+YAML          53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
