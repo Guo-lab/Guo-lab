@@ -92,7 +92,7 @@ Other            20 mins         ▒░░░░░░░░░░░░░░�
 
 My Coding Records (updated each month)
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<img src="https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png" width="60%" align='center'>
+<img src="https://wakatime.com/share/@Alpha_Young/b31d7ada-5e56-4d65-b702-288d95eb4c86.png" width="60%" align='center'>
 
 <br>
 
@@ -104,35 +104,30 @@ My Coding Records (updated each month)
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Guo-lab/count.svg" />
 </p>
-<pr>
+<!--pr-->
 
 <div align="center">
-
 KEEP MOVING ON COMPUTER SCIENCE
-\         STUDY  PATH       /
-\                       /
-]                     [    ,'|
-]                     [   /  |
-]___               ___[ ,'   |
-]  ]\             /[  [ |:   |
-]  ]  ]         [  [  [ |:   |
-]  ]  ]__     __[  [  [ |:   |
-]  ]  ] ]\ _ /[ [  [  [ |:   |
-]  ]  ] ] (#) [ [  [  [ :===='
-]  ]  ]_].nHn.[_[  [  [
-]  ]  ]  HHHHH. [  [  [
-]  ] /   `HH("N  \ [  [
-]__]/     HHH  "  \[__[
-]         N/"         [
-]         N H         [
-/          N            
-/           q,            \
-
+  \       STUDY  PATH       /
+   \                       /
+    ]                     [    ,'|
+    ]                     [   /  |
+    ]___               ___[ ,'   |
+    ]  ]\             /[  [ |:   |
+    ]  ]  ]         [  [  [ |:   |
+    ]  ]  ]__     __[  [  [ |:   |
+    ]  ]  ] ]\ _ /[ [  [  [ |:   |
+    ]  ]  ] ] (#) [ [  [  [ :===='
+    ]  ]  ]_].nHn.[_[  [  [
+    ]  ]  ]  HHHHH. [  [  [
+    ]  ] /   `HH("N  \ [  [
+    ]__]/     HHH  "  \[__[
+    ]         N/"         [
+    ]         N H         [
+    /          N           \ 
+   /           q,           \
 </div>
 <br>
-
-
-
 <!--div>
 <iframe frameborder="no" volume="0.1" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=32337953&auto=0&height=32&"></iframe>
 </div-->
