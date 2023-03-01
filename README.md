@@ -90,13 +90,13 @@ Other            20 mins         ▒░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
 
-My Coding Records (updated each month)
+My Coding Records _updated each month
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<img src="https://wakatime.com/share/@Alpha_Young/b31d7ada-5e56-4d65-b702-288d95eb4c86.png" width="60%" align='center'>
+<img src="https://wakatime.com/share/@Alpha_Young/b31d7ada-5e56-4d65-b702-288d95eb4c86.png" width="40%">
 
 <br>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16774%26project%3D%26in%3D864000000)](https://codetime.dev)
+[![CodeTime badge](https://img.shields.io/endpoint?style=&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16774%26project%3D%26in%3D2592000000)](https://codetime.dev)
 
 <br>
 
@@ -106,26 +106,29 @@ My Coding Records (updated each month)
 </p>
 <!--pr-->
 
+## Undergraduate
+ 
 <div align="center">
-KEEP MOVING ON COMPUTER SCIENCE
-  \       STUDY  PATH       /
-   \                       /
-    ]                     [    ,'|
-    ]                     [   /  |
-    ]___               ___[ ,'   |
-    ]  ]\             /[  [ |:   |
-    ]  ]  ]         [  [  [ |:   |
-    ]  ]  ]__     __[  [  [ |:   |
-    ]  ]  ] ]\ _ /[ [  [  [ |:   |
-    ]  ]  ] ] (#) [ [  [  [ :===='
-    ]  ]  ]_].nHn.[_[  [  [
-    ]  ]  ]  HHHHH. [  [  [
-    ]  ] /   `HH("N  \ [  [
-    ]__]/     HHH  "  \[__[
-    ]         N/"         [
-    ]         N H         [
-    /          N           \ 
-   /           q,           \
+
+     KEEP MOVING ON COMPUTER SCIENCE
+     \         STUDY  PATH       /
+     \                       /
+            ]                     [    ,'|
+            ]                     [   /  |
+            ]___               ___[ ,'   |
+            ]  ]\             /[  [ |:   |
+            ]  ]  ]         [  [  [ |:   |
+            ]  ]  ]__     __[  [  [ |:   |
+            ]  ]  ] ]\ _ /[ [  [  [ |:   |
+            ]  ]  ] ] (#) [ [  [  [ :===='
+     ]  ]  ]_].nHn.[_[  [  [
+     ]  ]  ]  HHHHH. [  [  [
+     ]  ] /   `HH("N  \ [  [
+     ]__]/     HHH  "  \[__[
+     ]         N/"         [
+     ]         N H         [
+      /          N            \
+     /           q,            \
 </div>
 <br>
 <!--div>
