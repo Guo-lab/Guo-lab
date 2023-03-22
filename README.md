@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - ### 🌱 I’m currently majoring in Computer Science.
-- ### 📫 How to reach me: rong5hui{at}163.com
+- ### 📫 How to reach me: rong5hui[at]163.com
 
 <!--
 **Guo-lab/Guo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
