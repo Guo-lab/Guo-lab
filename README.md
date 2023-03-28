@@ -93,11 +93,13 @@ Markdown     3 hrs 15 mins   █▓░░░░░░░░░░░░░░░
 
 My Coding Records _updated each month
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<img src="https://wakatime.com/share/@Alpha_Young/b31d7ada-5e56-4d65-b702-288d95eb4c86.png" width="40%">
+<img src="https://wakatime.com/share/@Alpha_Young/c5c6177a-2c39-469b-b4a5-b6b2935bca4f.png" width="40%">
+<!--Color (172,172,255) #ACACFF-->
 
 <br>
 
-[![CodeTime badge](https://img.shields.io/endpoint?style=&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16774%26project%3D%26in%3D2592000000)](https://codetime.dev)
+<!--Code Time Bar-->
+<!--[![CodeTime badge](https://img.shields.io/endpoint?style=&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16774%26project%3D%26in%3D2592000000)](https://codetime.dev)-->
 
 <br>
 
