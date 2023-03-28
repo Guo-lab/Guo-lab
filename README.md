@@ -93,7 +93,7 @@ Markdown     3 hrs 15 mins   █▓░░░░░░░░░░░░░░░
 
 My Coding Records _updated each month
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<img src="https://wakatime.com/share/@Alpha_Young/c5c6177a-2c39-469b-b4a5-b6b2935bca4f.png" width="40%">
+<img src="https://wakatime.com/share/@Alpha_Young/5e3d252c-68c5-4b0e-af8e-d9ec134962e6.png" width="40%">
 <!--Color (172,172,255) #ACACFF-->
 
 <br>
