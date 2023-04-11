@@ -39,16 +39,16 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 March 2023 - To: 05 April 2023
+From: 03 April 2023 - To: 10 April 2023
 
-Total Time: 22 hrs 15 mins
+Total Time: 32 hrs 28 mins
 
-CSHTML       5 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   23.82 %
-Python       4 hrs 17 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.31 %
-C++          3 hrs 43 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-C#           3 hrs 31 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
-JavaScript   1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
-Binary       1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.28 %
+C#           10 hrs 13 mins  ████████░░░░░░░░░░░░░░░░░   31.48 %
+C++          8 hrs 30 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
+CSHTML       7 hrs 50 mins   ██████░░░░░░░░░░░░░░░░░░░   24.14 %
+JavaScript   2 hrs 2 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Binary       1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
+SQL          1 hr 19 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 ```
 
 <!--END_SECTION:waka-->
