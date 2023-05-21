@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2023 - To: 15 May 2023
+From: 13 May 2023 - To: 20 May 2023
 
-Total Time: 29 hrs 33 mins
+Total Time: 26 hrs 44 mins
 
-C#           7 hrs 36 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 %
-C++          7 hrs 34 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.61 %
-VB.NET       4 hrs 1 min     ███▒░░░░░░░░░░░░░░░░░░░░░   13.61 %
-Binary       3 hrs 12 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 %
-CSHTML       2 hrs 51 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+C#           6 hrs 28 mins   ██████░░░░░░░░░░░░░░░░░░░   24.20 %
+C++          6 hrs 23 mins   ██████░░░░░░░░░░░░░░░░░░░   23.93 %
+JavaScript   3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
+CSHTML       2 hrs 59 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Binary       2 hrs 57 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
 ```
 
 <!--END_SECTION:waka-->
