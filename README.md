@@ -92,7 +92,7 @@ HTML         40 mins         ▓░░░░░░░░░░░░░░░░
 
 My Coding Records _updated each month
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<img src="https://wakatime.com/share/@Alpha_Young/5e3d252c-68c5-4b0e-af8e-d9ec134962e6.png" width="40%">
+<img src="https://wakatime.com/share/@Alpha_Young/24c4f936-7532-4627-8c3e-05ca3b9d69b6.svg" width="40%">
 <!--Color (172,172,255) #ACACFF-->
 
 <br>
