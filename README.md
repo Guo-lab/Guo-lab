@@ -39,15 +39,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 June 2023 - To: 20 June 2023
+From: 18 June 2023 - To: 25 June 2023
 
-Total Time: 22 hrs 22 mins
+Total Time: 30 hrs 8 mins
 
-C++          15 hrs 15 mins  █████████████████░░░░░░░░   68.20 %
-Python       2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
-JavaScript   1 hr 53 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 %
-HTML         1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
-C#           40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+C++          14 hrs 46 mins  ████████████▒░░░░░░░░░░░░   49.04 %
+Python       4 hrs 57 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
+JavaScript   2 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+C#           2 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+HTML         1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
 ```
 
 <!--END_SECTION:waka-->
