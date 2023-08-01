@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: athul/waka-readme@master # fixed (from https://github.com/athul/waka-readme)
         with:
-          # GH_TOKEN: ${{ secrets.GH_TOKEN }} # actually optional
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} # actually optional
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE:	true
           BLOCKS: ░▒▓█
