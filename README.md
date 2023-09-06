@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2023 - To: 31 August 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Total Time: 9 hrs 46 mins
+Total Time: 19 hrs 41 mins
 
-TeX            7 hrs 34 mins   ███████████████████▒░░░░░   77.42 %
-Markdown       1 hr 15 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.78 %
-C              26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-JSON           23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Ezhil          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+C              16 hrs 7 mins   ████████████████████▒░░░░   81.90 %
+Markdown       1 hr 59 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Batchfile      40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+JSON           23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+C++            19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
