@@ -6,7 +6,7 @@
 - ### 👨🏻‍💻 I am open to work (as a Software Engineer).
 - ### 📫 How to reach me:
   - Email: rong5hui[@]163.com
-  - LinkedIn: <a href="https://www.linkedin.com/in/siqiguo047"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siqi(Edward) Guo | LinkedIn" width="18px"/></a>
+  - LinkedIn: &nbsp;&nbsp; <a href="https://www.linkedin.com/in/siqiguo047"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siqi(Edward) Guo | LinkedIn" width="14px"/></a>
   - 
 
 <br>
