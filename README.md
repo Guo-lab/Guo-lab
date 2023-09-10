@@ -1,8 +1,10 @@
 <!--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-->
 ## Hi there 👋
 
-- ### 🌱 I’m currently majoring in Computer Science.
-- ### 📫 How to reach me: rong5hui[at]163.com
+- ### 🌱 I’m currently majoring in Electrical and Computer Engineering at CMU. (Master Degree)  
+- ### 🏫 I pursued my bachelor's degree in Computer Science and Technology at Tianjin University.
+- ### 👨🏻‍💻 I am open to work (as a Software Engineer).
+- ### 📫 How to reach me: rong5hui[@]163.com
 
 <!--
 **Guo-lab/Guo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -91,9 +93,9 @@ CSHTML           48 hrs 21 mins  █▓░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
 
-My Coding Records _updated each month
+
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<img src="https://wakatime.com/share/@Alpha_Young/24c4f936-7532-4627-8c3e-05ca3b9d69b6.svg" width="40%">
+<!--<img src="https://wakatime.com/share/@Alpha_Young/24c4f936-7532-4627-8c3e-05ca3b9d69b6.svg" width="40%">-->
 <!--Color (172,172,255) #ACACFF-->
 
 <br>
