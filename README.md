@@ -4,7 +4,13 @@
 - ### 🌱 I’m currently majoring in Electrical and Computer Engineering at CMU. (Master Degree)  
 - ### 🏫 I pursued my bachelor's degree in Computer Science and Technology at Tianjin University.
 - ### 👨🏻‍💻 I am open to work (as a Software Engineer).
-- ### 📫 How to reach me: rong5hui[@]163.com
+- ### 📫 How to reach me:
+  - Email: rong5hui[@]163.com
+  - LinkedIn: <a href="https://www.linkedin.com/in/siqiguo047"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siqi(Edward) Guo | LinkedIn" width="18px"/></a>
+  - 
+
+<br>
+
 
 <!--
 **Guo-lab/Guo-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +45,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -55,9 +63,11 @@ CSHTML           48 hrs 21 mins  █▓░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<pr><pr>
 
-### Programming Skills  <pr>
+
+<br>
+
+### Programming Skills 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
@@ -80,61 +90,63 @@ CSHTML           48 hrs 21 mins  █▓░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Microsoft" title="Microsoft" style="height:20px; border-radius: 0.3125em;"  />
 
-<pr><pr>
+<br>
 
 ### Machine Learning
 
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
-<pr><pr>
+<br>
 
 ### My Operating System by frequency <pr>
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="height:20px; border-radius: 0.3125em;"  /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="height:20px; border-radius: 0.3125em;"  />
 
 
-
 <!--[![image](https://wakatime.com/share/@Alpha_Young/4041b88d-87ec-4dce-865c-ffdab23b142d.png)](https://wakatime.com/)-->
-<!--<img src="https://wakatime.com/share/@Alpha_Young/24c4f936-7532-4627-8c3e-05ca3b9d69b6.svg" width="40%">-->
+<p align="center">
+    <img src="https://wakatime.com/share/@Edward47Guo/9b4a7376-967c-4f01-af14-50727a4b3203.svg" width="60%" align="center">
+</p>
 <!--Color (172,172,255) #ACACFF-->
-
 <br>
-
 <!--Code Time Bar-->
 <!--[![CodeTime badge](https://img.shields.io/endpoint?style=&color=blue&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D16774%26project%3D%26in%3D2592000000)](https://codetime.dev)-->
-
 <br>
-
 <p align="center"> 
   Visitor Count<br>
   <img src="https://profile-counter.glitch.me/Guo-lab/count.svg" />
 </p>
 <!--pr-->
 
-## Undergraduate
- 
-<div align="center">
+<br>
 
-     KEEP MOVING ON COMPUTER SCIENCE
-     \         STUDY  PATH       /
-     \                       /
-            ]                     [    ,'|
-            ]                     [   /  |
-            ]___               ___[ ,'   |
-            ]  ]\             /[  [ |:   |
-            ]  ]  ]         [  [  [ |:   |
-            ]  ]  ]__     __[  [  [ |:   |
-            ]  ]  ] ]\ _ /[ [  [  [ |:   |
-            ]  ]  ] ] (#) [ [  [  [ :===='
-     ]  ]  ]_].nHn.[_[  [  [
-     ]  ]  ]  HHHHH. [  [  [
-     ]  ] /   `HH("N  \ [  [
-     ]__]/     HHH  "  \[__[
-     ]         N/"         [
-     ]         N H         [
-      /          N            \
-     /           q,            \
-</div>
+<!--p align="center">  
+  <div align="center">
+  
+       KEEP MOVING ON COMPUTER SCIENCE
+       \         STUDY  PATH       /
+       \                       /
+              ]                     [    ,'|
+              ]                     [   /  |
+              ]___               ___[ ,'   |
+              ]  ]\             /[  [ |:   |
+              ]  ]  ]         [  [  [ |:   |
+              ]  ]  ]__     __[  [  [ |:   |
+              ]  ]  ] ]\ _ /[ [  [  [ |:   |
+              ]  ]  ] ] (#) [ [  [  [ :===='
+       ]  ]  ]_].nHn.[_[  [  [
+       ]  ]  ]  HHHHH. [  [  [
+       ]  ] /   `HH("N  \ [  [
+       ]__]/     HHH  "  \[__[
+       ]         N/"         [
+       ]         N H         [
+        /          N            \
+       /           q,            \
+  </div>
+</p-->
+
+
+
 <br>
 <!--div>
 <iframe frameborder="no" volume="0.1" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="https://music.163.com/outchain/player?type=2&id=32337953&auto=0&height=32&"></iframe>
