@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2021 - To: 09 January 2024
+From: 09 March 2021 - To: 14 January 2024
 
-Total Time: 1,092 hrs 46 mins
+Total Time: 1,092 hrs 47 mins
 
 C++               239 hrs 44 mins █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
 Python            191 hrs 37 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
