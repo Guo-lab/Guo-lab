@@ -50,15 +50,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2021 - To: 08 March 2024
+From: 09 March 2021 - To: 14 March 2024
 
-Total Time: 1,330 hrs 47 mins
+Total Time: 1,344 hrs 52 mins
 
-Python            255 hrs 10 mins ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-C++               251 hrs 25 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-C                 196 hrs 35 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
-TeX               99 hrs 22 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
-C#                94 hrs 39 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Python            260 hrs 39 mins █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+C++               251 hrs 25 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
+C                 196 hrs 43 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.63 %
+TeX               105 hrs 22 mins ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+C#                94 hrs 39 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
 ```
 
 <!--END_SECTION:waka-->
