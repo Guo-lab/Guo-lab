@@ -3,9 +3,6 @@
 <!--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-->
 ## Hi there 👋
 
-- ### 🌱 I’m currently majoring in Electrical and Computer Engineering at CMU. (Master Degree)  
-- ### 🏫 I pursued my bachelor's degree in Computer Science and Technology at Tianjin University.
-- ### 👨🏻‍💻 I am open to work (as a Software Engineer).
 - ### 📫 How to reach me:
   - Email: rong5hui[@]163.com
   - LinkedIn: &nbsp;&nbsp; <a href="https://www.linkedin.com/in/siqiguo047"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Siqi(Edward) Guo | LinkedIn" width="14px"/></a>
