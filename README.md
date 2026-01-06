@@ -49,15 +49,15 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2021 - To: 31 December 2025
+From: 09 March 2021 - To: 04 January 2026
 
-Total Time: 4,003 hrs 28 mins
+Total Time: 4,010 hrs 14 mins
 
-C++                  820 hrs 5 mins  █████░░░░░░░░░░░░░░░░░░░░   20.48 %
-C                    813 hrs 9 mins  █████░░░░░░░░░░░░░░░░░░░░   20.31 %
-Python               718 hrs 26 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.95 %
-TeX                  343 hrs 58 mins ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
-Markdown             173 hrs 46 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
+C++                  820 hrs 6 mins  █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+C                    813 hrs 40 mins █████░░░░░░░░░░░░░░░░░░░░   20.29 %
+Python               718 hrs 33 mins ████▒░░░░░░░░░░░░░░░░░░░░   17.92 %
+TeX                  344 hrs 9 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+Markdown             178 hrs 59 mins █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
 ```
 
 <!--END_SECTION:waka-->
