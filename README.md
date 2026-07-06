@@ -36,15 +36,15 @@ repair themselves, and keep learning.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2021 - To: 29 June 2026
+From: 09 March 2021 - To: 05 July 2026
 
-Total Time: 4,854 hrs 25 mins
+Total Time: 4,868 hrs 38 mins
 
-Python               997 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 %
-C++                  887 hrs 50 mins       ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
-C                    813 hrs 50 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-TeX                  356 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Markdown             355 hrs 35 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Python               998 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+C++                  890 hrs 39 mins       ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
+C                    813 hrs 50 mins       ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Markdown             360 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+TeX                  356 hrs 50 mins       █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
 ```
 
 <!--END_SECTION:waka-->
