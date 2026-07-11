@@ -36,7 +36,7 @@ repair themselves, and keep learning.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 March 2021 - To: 05 July 2026
+From: 09 March 2021 - To: 08 July 2026
 
 Total Time: 4,868 hrs 38 mins
 
